@@ -1,3 +1,10 @@
-# CS-250Module7
+# CS-250 - Module 8 Sprint Review and Retrospective
+#### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs involves gathering and understanding requirements from stakeholders and users, often through direct communication, surveys, or observation. Creating user stories helps break down these needs into manageable, actionable pieces of work that are user-centric. User stories define the who, what, and why of a feature, ensuring that the development aligns closely with user expectations and enhances user experience. For example, a user story might state, "As a traveler, I want to be able to book a flight easily so that I can plan my trip efficiently." This clarity helps developers focus on delivering value.
 
-## Initial Repo creation for Module 7 submission
+#### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I approach developing programs by starting with a clear understanding of the requirements, followed by iterative development and continuous feedback loops. Agile processes such as Scrum, which includes sprints, daily stand-ups, sprint reviews, and retrospectives, help structure the development process. I aim to incorporate these Agile practices into my future work to enhance flexibility, improve team collaboration, and ensure timely delivery of high-quality software. For instance, using sprint retrospectives can help teams continuously improve by reflecting on their processes and outcomes.
+
+
+#### What does it mean to be a good team member in software development?
+Being a good team member in software development means collaborating effectively, communicating clearly, and supporting your teammates. It involves being reliable, open to feedback, and willing to help others overcome challenges. A good team member also contributes to a positive team culture, shares knowledge, and works towards common goals. For example, actively participating in code reviews and providing constructive feedback can help improve the team's overall code quality and foster a culture of continuous learning and improvement.
